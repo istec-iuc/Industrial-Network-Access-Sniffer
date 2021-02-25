@@ -10,31 +10,31 @@ As a result of this project, it will be ensured that the security of critical in
 
 ### Developers
 
-**İbrahim Said Kavas :** 
+**İbrahim Said Kavas :** \n
   Github: 
   
   Linkedin: https://www.linkedin.com/in/ibrahim-said-kavas-129663151/
   
 
-**Buse Nur Sabah :** 
+**Buse Nur Sabah :** \n
   Github: 
   
   Linkedin: 
   
   
-**Gizem Bozyel :** 
+**Gizem Bozyel :** \n
   Github: 
   
   Linkedin: https://www.linkedin.com/in/gizem-bozyel-679300154
   
   
-  **Ezgi Erzurum :** 
+  **Ezgi Erzurum :** \n
   Github: 
   
   Linkedin: https://www.linkedin.com/in/ezgierzurum
   
   
-   **Mehmet Aktaş :** 
+   **Mehmet Aktaş :** \n
   Github: 
   
   Linkedin: https://www.linkedin.com/in/mehmet-a-5aaaa717b/
